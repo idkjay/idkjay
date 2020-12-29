@@ -4,7 +4,7 @@ I'm a full-stack software engineer from Boston, MA. Earlier this year, I attende
 
 
 ### Get in touch:
-- Portfolio: https://jordanchu.com/
+- Portfolio: https://www.jordanchu.com/
 - LinkedIn: https://www.linkedin.com/in/jordanchu1995/
 <!--
 **idkjay/idkjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
